@@ -4,9 +4,6 @@
 - One of my dreams is to create a non-profitable ONG who helps young people who felt lost and depressed to find a path in their lives.
 - Even that MTBI test aren't consider precise, I think my results can speak a little more about me, so check out my results at https://www.16personalities.com/profiles/d83a31c13a80d 
 - You can find me on Instagram: Tom_as_wel, or e-mail: wam123@hotmail.com
- wamalmeida: ${{ github.repository_owner }}
-
-
 <!---
 wamalmeida/wamalmeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
